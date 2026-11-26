@@ -1,0 +1,21 @@
+{
+  "name": "namefi-instant",
+  "version": "1.0.0",
+  "description": "Brainstorm startup, business, and brand names, check domain availability instantly, and inspect public DNS records. No account or sign-in needed.",
+  "author": {
+    "name": "Namefi by D3Serve Labs Inc",
+    "email": "support@namefi.io"
+  },
+  "homepage": "https://namefi.io",
+  "repository": "https://github.com/d3servelabs/namefi-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "namefi",
+    "domains",
+    "availability",
+    "dns",
+    "startups",
+    "branding"
+  ],
+  "logo": "assets/namefi-icon.png"
+}
